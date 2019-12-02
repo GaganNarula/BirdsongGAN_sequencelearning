@@ -1,0 +1,1 @@
+%run learn_hmm.py --path2mergedlist '/media/songbird/datapartition/mdgan_zvecs_with_age_HDF/merge_list_b13r16.pkl' --path2gen '/media/songbird/datapartition/mdgan_output/nz16_imW16_L1_gauss_SELU_softplus_zreg/2018-11-18 22-11-30.158304/netG_epoch_4.pth' --outpath '/home/songbird/data/hmm_dump/selu_net/' --fit_params stm
